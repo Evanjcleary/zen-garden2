@@ -29,17 +29,17 @@ h3 {
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: rgb(92, 100, 125);
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: rgb(200, 15, 238);
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: rgb(4, 2, 7);
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
